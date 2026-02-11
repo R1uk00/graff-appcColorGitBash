@@ -27,7 +27,7 @@ body.bg-gradient {
     text-align: center;
 }
 
-/* Sliders personalizados */
+/* Sliders personalizados con un cambio*/
 .range-red::-webkit-slider-thumb {
     background: #dc3545;
 }

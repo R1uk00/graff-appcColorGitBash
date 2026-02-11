@@ -25,7 +25,7 @@ function setRGB(r, g, b) {
     updateColor();
 }
 
-
+// Esto es otro cambio que hise
 function updateColor() {
     const r = red.value;
     const g = green.value;
